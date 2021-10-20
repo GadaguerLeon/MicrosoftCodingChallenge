@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "jz85IpYKBGTZ1teKgfQmp2ENYv430I3EderuZFzbnk/9KOvkEB7K1klVPvO1CVq7C8Hc+40Kt7zN4bdEqcGqaQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Gadaguer Leon\\source\\repos\\CrawlerCodingChallenge\\CrawlerCodingChallenge\\CrawlerCodingChallenge.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Gadaguer Leon\\.nuget\\packages\\htmlagilitypack\\1.11.37\\htmlagilitypack.1.11.37.nupkg.sha512"
+  ],
+  "logs": []
+}
